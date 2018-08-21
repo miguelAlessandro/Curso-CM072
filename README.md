@@ -1,10 +1,50 @@
-# Curso CM-072 Una introducción al Machine Learning con Python
+# Curso CM-072
 
 # Temario 
 
+Introducción al machine learning y aplicaciones
+
+Aprendizaje supervisado
+
+- Clasificación y regresión
+- Generalización, sobrefijado, subfijado
+- Algoritmos  del ML supervisados
+- Estimacion de incertidumbre de los estimadores
+
+Aprendizaje no supervisado
+
+- Tipos de aprendizaje no supervisado
+- Retos en el aprendizaje no supervisado
+- Preprocesamiento y escalamiento
+- Reducción de la dimensión, extracción de características.
+- Clustering
+
+Representación de datos e ingeniería de las características
+
+- Variables categóricas
+- Discretización, modelos lineales y árboles
+- Interacciones y polinomios
+- Transformacions univariadas no lineales.
+
+Evaluación de modelos
+
+- Validación cruzada. Variantes
+- Búsqueda grid
+- Métricas de evaluación y puntuaciones
+
+Cadena de algoritmos y pipelines
+
+- Selección de paramétros y preprocesamiento
+- Construyendo  y utilizando pipelines
+- Interfaz general de pipelines
+
+Introducción a las redes neuronales
+
+
+
 ## Tarea 1
 
-## Lecturaa adicionales
+## Lecturas adicionales
 
 ###  Clases 1-2
 
