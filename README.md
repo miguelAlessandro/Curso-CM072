@@ -15,7 +15,7 @@ Aprendizaje no supervisado
 
 - Tipos de aprendizaje no supervisado
 - Retos en el aprendizaje no supervisado
-- Preprocesamiento y escalamiento
+- Preprocesamiento, escalamiento y normalización
 - Reducción de la dimensión, extracción de características.
 - Clustering
 
@@ -29,7 +29,7 @@ Representación de datos e ingeniería de las características
 Evaluación de modelos
 
 - Validación cruzada. Variantes
-- Búsqueda grid
+- Búsqueda grid y random
 - Métricas de evaluación y puntuaciones
 
 Cadena de algoritmos y pipelines
@@ -40,9 +40,18 @@ Cadena de algoritmos y pipelines
 
 Introducción a las redes neuronales
 
+ - Perceptrón para regresión y clasificació
+ - Keras
+ - Redes Convolucionales
+ - Regularizacion
+ - Aplicación con MNIST 
 
+## Lecturas
 
-## Tarea 1
+- [API design for machine learning software:experiences from the scikit-learn project](https://github.com/C-Lara/Curso-CM072/blob/master/Introducci%C3%B3n/API-ScikitLearn.pdf).
+
+## Tareas
+- [Tarea 1](https://github.com/C-Lara/Curso-CM072/tree/master/Tarea1).
 
 ## Lecturas adicionales
 
@@ -126,6 +135,8 @@ c-lara@Lara:~$ conda install -c conda-forge jupyter_contrib_nbextensions
 * [Scikit-learn](http://scikit-learn.org/stable/), es tal vez la mejor biblioteca para Machine Learning, construida sobre NumPy, SciPy y Matplotlib, esta biblioteca contiene una gran cantidad de herramientas eficientes para el Machine Learning y el modelado estadístico incluyendo clasificación, regresión, agrupación y reducción de la dimensionalidad.
 
 * [Seaborn](https://seaborn.pydata.org/) es una libreria para la visualización de datos estadísticos. Seaborn es una biblioteca para hacer atractivos e informativos los gráficos estadísticos en Python. Se basa en matplotlib. Seaborn pretende hacer de la visualización una parte central de la exploración y la comprensión de los datos.
+
+* [keras](https://keras.io/) es una librería de redes neuronales de código abierto escrito en Python.
 
 
 ### Git y Github
