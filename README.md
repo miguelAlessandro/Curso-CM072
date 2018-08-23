@@ -56,7 +56,7 @@
 
 La nota final se obtiene de la siguiente manera:
 
-Nota Final = (0.7*Examen Parcial + 0.3 * Trabajo1  + 0.5* Examen Final + 0.5* Trabajo2 +  Tareas)/3
+Nota Final = (0.7* Examen Parcial + 0.3 * Trabajo1  + 0.5 * Examen Final + 0.5 * Trabajo2 +  Tareas)/3
 
 - Sólo se tomarán las mejores 6 tareas como notas de prácticas calificadas.
 
@@ -100,7 +100,7 @@ La propuesta de proyecto deberá incluir lo siguiente (máximo una hoja A4):
 - Artículos científicos relevantes
 -  Propuesta tentativa de modelos a utilizar.
 
-### **Informe del trabajo grupal:**
+### **Informe del trabajo de curso:**
 
 El informe del proyecto deberá explicar claramente el objetivo del estudio, trabajos previos sobre el problema, código de solución (varias opciones) del problema en cuestión, pruebas, conclusiones, etc.  Para la mayoría de los problemas los paquetes de software de  Python están disponibles como dominio público. No hay restricción para usarlos.
 
