@@ -2,6 +2,30 @@
 
 ## Introducción 
 
+* Cálculo
+  - Apendice D del libro de Chris Bishop.
+  - [Notas](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/readings/lagrange.pdf) del MIT para multiplicadores de Lagrange.
+  - [Lagrange Multipliers without Permanent Scarring](https://people.eecs.berkeley.edu/~klein/papers/lagrange-multipliers.pdf) de  Dan Klein.
+  
+* Probabilidad
+  
+  - [Notas ](http://www.statslab.cam.ac.uk/~rrw1/prob/prob-weber.pdf) de  Richard Weber.
+  - Capitulo 2 del libro de Kevin P. Murphy o Chris Bishop.
+  - [Notas](http://cs229.stanford.edu/section/cs229-prob.pdf) de probabilidades de las clases de Machine Learning de Stanford.
+ 
+* Álgebra Lineal
+  - [Coding The Matrix: Linear Algebra Through Computer Science Applications](http://codingthematrix.com/), fantástico libro de Philip Klein (Revisar los diapositivas que acompañan al libro).
+  - [Notas](http://cs229.stanford.edu/section/cs229-linalg.pdf) de álgebra lineal de las clases de Machine Learning de Stanford.
+  - Apendice C del libro de Chris Bishop.
+  - [Notas ](http://cs.nyu.edu/%7Edsontag/courses/ml12/notes/linear_algebra.pdf) de Sam Roweis.
+  
+* Optimización
+  - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) de Stephen Boyd y  Lieven Vandenberghe.
+  - Notas de Optimización de las clases de Machine Learning de Stanford:
+    * [Convex Optimization Overview 1](http://cs229.stanford.edu/section/cs229-cvxopt.pdf).
+    * [Convex Optimization Overview 2](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf).
+ 
+
 ### El mundo del machine learning y la IA
 
 * Ejemplo 1: [Introduction](https://www.youtube.com/watch?v=i8D90DkCLhI).
@@ -19,6 +43,14 @@
 * Ejemplo 13: [Heuristics](https://www.youtube.com/watch?v=g_sA8hYU3b8).
 * Ejemplo 14: [Mejorando las Heurísticas](https://www.youtube.com/watch?v=tPHImr2sFBM).
 * Ejemplo 15: [Information](https://www.youtube.com/watch?v=FMCY3SXTELE).
+
+###  Material de referencia
+
+* Libros de Machine Learning
+  - Data Science From Scratch: First Principles with Python de Joel Grus 2015.
+  - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron  O'Reilly Media; 1 edition 2017.
+  - [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) de Chris Bishop  (2006). 
+  
 
 
 # Temario 
