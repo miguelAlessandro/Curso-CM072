@@ -56,11 +56,11 @@
 
 La nota final se obtiene de la siguiente manera:
 
-Nota Final = (0.7*Examen Parcial * 0.3*Trabajo1  + 0.5* Examen Final* 0.5Trabajo2 +  Tareas)/3
+Nota Final = (0.7*Examen Parcial + 0.3 * Trabajo1  + 0.5* Examen Final + 0.5* Trabajo2 +  Tareas)/3
 
 - Sólo se tomarán las mejores 6 tareas como notas de prácticas calificadas.
 
-## **Esquema de trabajo para el curso CM-072 **
+## Esquema de trabajo para el curso CM-072
 
 - Trabajos individuales.
 - Entregable:
