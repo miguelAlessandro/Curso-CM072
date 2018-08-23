@@ -52,8 +52,15 @@
   - [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) de Chris Bishop  (2006). 
   
 
+# Evaluación 
 
-## **Esquema de trabajo grupal para el curso CM-274**
+La nota final se obtiene de la siguiente manera:
+
+Nota Final = (0.7*Examen Parcial * 0.3*Trabajo1  + 0.5* Examen Final* 0.5Trabajo2 +  Tareas)/3
+
+- Sólo se tomarán las mejores 6 tareas como notas de prácticas calificadas.
+
+## **Esquema de trabajo para el curso CM-072 **
 
 - Trabajos individuales.
 - Entregable:
@@ -71,7 +78,7 @@ La evaluación serán 5 entregables, lo cuales se detallan a continuación, que 
 
 | **Entregable** | **Fecha límite de entrega** | **Puntaje** |
 | --- | --- | --- |
-| 1.  Propuesta de proyecto | | Participación |
+| 1.  Propuesta de proyecto | |  |
 | 2. (Introducción, estado del arte y diseño del experimento), en formato IEEE, tamaño A4, máximo 3 páginas de extensión. |  |  |
 | 3. Código y/o scripts (jupyter notebooks) con la experimentación realizada |  ||
 | 4. Informe final, en formato IEEE, tamaño A4, máximo 10 páginas de extensión |||
