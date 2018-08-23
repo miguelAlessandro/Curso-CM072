@@ -138,23 +138,20 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 
 ### **Recursos**
 
-- Git y Github | Curso Práctico de Git y Github Desde Cero:  [https://www.youtube.com/watch](https://www.youtube.com/watch)[v=HiXLkL42tMU](https://www.youtube.com/watch?v=HiXLkL42tMU)
-- Editor colaborativo LaTeX en línea:[**https://www.overleaf.com/**](https://www.overleaf.com/).
+- Git y Github | Curso Práctico de Git y Github Desde Cero--> [https://www.youtube.com/watch](https://www.youtube.com/watch)[v=HiXLkL42tMU](https://www.youtube.com/watch?v=HiXLkL42tMU)
+- Editor colaborativo LaTeX en línea-->[https://www.overleaf.com/](https://www.overleaf.com/).
 
-- **Formato IEEE (MS Word y LaTeX)**:[**https://www.ieee.org/conferences/publishing/templates.html**](https://www.ieee.org/conferences/publishing/templates.html)
+- **Formato IEEE (MS Word y LaTeX)** -->[**https://www.ieee.org/conferences/publishing/templates.html**](https://www.ieee.org/conferences/publishing/templates.html)
 
-- Buscador de literatura académica:[**https://scholar.google.com.pe/**](https://scholar.google.com.pe/)
+- Buscador de literatura académica-->[**https://scholar.google.com.pe/**](https://scholar.google.com.pe/)
 
-- Jupyter Notebook Tutorial: The Definitive Guide:[**https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook**](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-
-- Notebooks With R: ** ** [**https://www.datacamp.com/community/blog/jupyter-notebook-r**](https://www.datacamp.com/community/blog/jupyter-notebook-r)
+- Jupyter Notebook Tutorial: The Definitive Guide-->[**https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook**](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 
 - Guías para elaborar un poster:
 
-- [https://guides.nyu.edu/posters](https://guides.nyu.edu/posters)
-- [https://nau.edu/undergraduate-research/poster-presentation-tips/](https://nau.edu/undergraduate-research/poster-presentation-tips/)
-- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/)
-
+  - [https://guides.nyu.edu/posters](https://guides.nyu.edu/posters)
+  - [https://nau.edu/undergraduate-research/poster-presentation-tips/](https://nau.edu/undergraduate-research/poster-presentation-tips/)
+  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/)
 
 
 # Temario 
