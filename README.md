@@ -53,6 +53,123 @@
   
 
 
+**Esquema de trabajo grupal para el curso CM-274**
+
+
+
+- Equipos de 3 a 4 estudiantes.
+- Entregable:
+  - ◦◦Archivo PDF (Informe).
+  - ◦◦Cuaderno de Jupyter con el código y un resumen del proyecto.
+  - ◦◦Presentación en Beamer o Power Point para su exposición.
+
+**Lista de temas:**
+
+- Estructuras de datos probabílisticos: Bloom filter, Count-Min Sketch, HyperLog Log .
+- Inferencia variacional: Regresión lineal variacional, regresión logística variacional.
+- Métodos de muestreo: Algoritmos de muestreo básico, MCMC, el algoritmo de Metropolis-Hasting.
+- El algoritmo híbrido de Monte Carlo: Sistemas dinámicos.
+- Cotas de Chernoff y Hoeffding: Análisis de esquemas de enrutamiento de paquetes aleatorios en las redes hipercubo y mariposa.
+- Martingalas: el teorema de parada de martingalas, la desigualdad de Wald y la desigualdad de Azuma-Hoeffding.
+- Modelos de grafos aleatorios: Ciclos Hamiltonianos.
+
+
+
+## **Evaluación** (Adaptado del trabajo Dr. Ceśar Beltrán Castañón y  Mg. César Olivares Poggi)
+
+La evaluación serán 5 entregables, lo cuales se detallan a continuación, que serán parte de las calificaciones de laboratorios y y exámenes y no son anulables.
+
+| **Entregable** | **Fecha límite de entrega** | **Puntaje** |
+| --- | --- | --- |
+| 1.  Propuesta de proyecto | | Participación |
+| 2. (Introducción, estado del arte y diseño del experimento), en formato IEEE, tamaño A4, máximo 3 páginas de extensión. |  |  |
+| 3. Código y/o scripts (jupyter notebooks) con la experimentación realizada |  ||
+| 4. Informe final, en formato IEEE, tamaño A4, máximo 8 páginas de extensión |||
+| 5. Exposición de presentación de trabajo | 30 de noviembre ||
+
+Se tomará más énfasis en  lo siguiente  para las evaluaciones:
+
+- Contenido del Informe.
+- La solución al problema a realizar y la mención de las variantes.
+- Exposición y presentación de posters.
+
+### **Propuesta de proyecto**
+
+La propuesta de proyecto deberá incluir lo siguiente (máximo una hoja A4):
+
+- Nombre del proyecto
+- Proyecto a utilizar (dependiendo del orden de trabajos se hará las asignaciones repetidas).
+- Objetivo del proyecto
+- Artículos científicos relevantes
+-  Propuesta tentativa de modelos a utilizar.
+
+### **Informe del trabajo grupal:**
+
+El informe del proyecto deberá explicar claramente el objetivo del estudio, trabajos previos sobre el problema, código de solución (varias opciones) del problema en cuestión, pruebas, conclusiones, etc.  Para la mayoría de los problemas los paquetes de software de  Python están disponibles como dominio público. No hay restricción para usarlos.
+
+El informe debe incluir la siguiente información:
+
+- Introducción
+  - Presentación del problema general sobre el que versará el trabajo y cómo se integra dentro del uso del lenguaje python y del curso.
+  - Objetivo del estudio
+  - Organización del informe (secciones).
+-  Estado del arte
+  - Breve mención del aporte que otros artículos científicos han realizado para este problema.
+  -  Mención de al menos 3 artículos científicos que mencionen el problema y las variantes realizadas.
+
+- Diseño del experimento
+  - Descripción de los objetos, funciones y técnicas a utilizar.
+
+- Experimentos y resultados
+  - Línea base: Reproducción de resultados reportados en un artículo científico anterior.
+  - Evaluación del rendimiento de los modelos ensayados.
+  - Comparación de línea base y resultados propios.
+
+- Discusión
+  - Interpretación de los resultados obtenidos.
+  -  ¿Cómo podría ser mejorado sus resultados?
+
+- Conclusiones y trabajos futuros.
+
+- Bibliografía o Referencias.
+
+
+
+**Código y/o scripts (Jupyter Notebooks )**
+
+- El código será trabajado de forma individual  utilizando  GitHub, de manera que se pueda verificar los aportes hechos por cada uno de los integrantes del curso.
+- Se recomienda trabajar con jupyter notebooks o Jupyter lab en Python usando las librerías del curso. 
+- Se deberá asignar nombres representativos a los archivos, de manera que se pueda identificar su orden relativo y el propósito de cada uno. No hay restricciones para tomar como base código tomado de otras fuentes, siempre y cuando se cite debidamente la fuente y se realice las adaptaciones que requiera el propio trabajo.
+- El código deberá estar mínimamente comentado, siempre en español. Se ignorará cualquier comentario en otro idioma.
+- Asimismo, se ignorará cualquier código simplemente copiado cuya fuente no haya sido citada, y se asignará el puntaje mínimo al estudiante.
+
+
+
+### **Exposición**
+
+El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicadas abajo:
+
+**Recursos**
+
+- Git y Github | Curso Práctico de Git y Github Desde Cero:  [https://www.youtube.com/watch](https://www.youtube.com/watch)[v=HiXLkL42tMU](https://www.youtube.com/watch?v=HiXLkL42tMU)
+- Editor colaborativo LaTeX en línea:[**https://www.overleaf.com/**](https://www.overleaf.com/).
+
+- **Formato IEEE (MS Word y LaTeX)**:[**https://www.ieee.org/conferences/publishing/templates.html**](https://www.ieee.org/conferences/publishing/templates.html)
+
+- Buscador de literatura académica:[**https://scholar.google.com.pe/**](https://scholar.google.com.pe/)
+
+- Jupyter Notebook Tutorial: The Definitive Guide:[**https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook**](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+
+- Notebooks With R: ** ** [**https://www.datacamp.com/community/blog/jupyter-notebook-r**](https://www.datacamp.com/community/blog/jupyter-notebook-r)
+
+- Guías para elaborar un poster:
+
+- [https://guides.nyu.edu/posters](https://guides.nyu.edu/posters)
+- [https://nau.edu/undergraduate-research/poster-presentation-tips/](https://nau.edu/undergraduate-research/poster-presentation-tips/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/)
+
+
+
 # Temario 
 
 Introducción al machine learning y aplicaciones
