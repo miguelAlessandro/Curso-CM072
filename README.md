@@ -24,8 +24,8 @@ Curso elemental de python y las librerías scikit learn y keras aplicados al mac
 * Optimización
   - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) de Stephen Boyd y  Lieven Vandenberghe.
   - Notas de Optimización de las clases de Machine Learning de Stanford:
-    * [Convex Optimization Overview 1](http://cs229.stanford.edu/section/cs229-cvxopt.pdf).
-    * [Convex Optimization Overview 2](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf).
+    - [Convex Optimization Overview 1](http://cs229.stanford.edu/section/cs229-cvxopt.pdf).
+    - [Convex Optimization Overview 2](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf).
  
 
 ### El mundo del machine learning y la IA
