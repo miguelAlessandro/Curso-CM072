@@ -1,5 +1,7 @@
 # Curso CM-072
 
+Curso elemental de python y las librerías scikit learn y keras aplicados al machine learning.
+
 ## Introducción 
 
 * Cálculo
@@ -50,7 +52,11 @@
   - Data Science From Scratch: First Principles with Python de Joel Grus 2015.
   - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron  O'Reilly Media; 1 edition 2017.
   - [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) de Chris Bishop  (2006). 
-  
+ 
+## Horario de clases 
+
+* Miércoles 3- 6  J3162B.
+* Sábados  2- 5 Sala 1.
 
 # Evaluación 
 
