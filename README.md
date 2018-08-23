@@ -53,27 +53,17 @@
   
 
 
-**Esquema de trabajo grupal para el curso CM-274**
+## **Esquema de trabajo grupal para el curso CM-274**
 
-
-
-- Equipos de 3 a 4 estudiantes.
+- Trabajos individuales.
 - Entregable:
-  - ◦◦Archivo PDF (Informe).
-  - ◦◦Cuaderno de Jupyter con el código y un resumen del proyecto.
-  - ◦◦Presentación en Beamer o Power Point para su exposición.
+  - Archivo PDF (Informe).
+  - Cuaderno de Jupyter con el código y un resumen del proyecto.
+  - Presentación en Beamer  para su exposición.
 
-**Lista de temas:**
+### **Lista de temas:**
 
-- Estructuras de datos probabílisticos: Bloom filter, Count-Min Sketch, HyperLog Log .
-- Inferencia variacional: Regresión lineal variacional, regresión logística variacional.
-- Métodos de muestreo: Algoritmos de muestreo básico, MCMC, el algoritmo de Metropolis-Hasting.
-- El algoritmo híbrido de Monte Carlo: Sistemas dinámicos.
-- Cotas de Chernoff y Hoeffding: Análisis de esquemas de enrutamiento de paquetes aleatorios en las redes hipercubo y mariposa.
-- Martingalas: el teorema de parada de martingalas, la desigualdad de Wald y la desigualdad de Azuma-Hoeffding.
-- Modelos de grafos aleatorios: Ciclos Hamiltonianos.
-
-
+- 
 
 ## **Evaluación** (Adaptado del trabajo Dr. Ceśar Beltrán Castañón y  Mg. César Olivares Poggi)
 
@@ -84,8 +74,8 @@ La evaluación serán 5 entregables, lo cuales se detallan a continuación, que 
 | 1.  Propuesta de proyecto | | Participación |
 | 2. (Introducción, estado del arte y diseño del experimento), en formato IEEE, tamaño A4, máximo 3 páginas de extensión. |  |  |
 | 3. Código y/o scripts (jupyter notebooks) con la experimentación realizada |  ||
-| 4. Informe final, en formato IEEE, tamaño A4, máximo 8 páginas de extensión |||
-| 5. Exposición de presentación de trabajo | 30 de noviembre ||
+| 4. Informe final, en formato IEEE, tamaño A4, máximo 10 páginas de extensión |||
+| 5. Exposición de presentación de trabajo | ||
 
 Se tomará más énfasis en  lo siguiente  para las evaluaciones:
 
@@ -134,7 +124,6 @@ El informe debe incluir la siguiente información:
 - Bibliografía o Referencias.
 
 
-
 **Código y/o scripts (Jupyter Notebooks )**
 
 - El código será trabajado de forma individual  utilizando  GitHub, de manera que se pueda verificar los aportes hechos por cada uno de los integrantes del curso.
@@ -143,13 +132,11 @@ El informe debe incluir la siguiente información:
 - El código deberá estar mínimamente comentado, siempre en español. Se ignorará cualquier comentario en otro idioma.
 - Asimismo, se ignorará cualquier código simplemente copiado cuya fuente no haya sido citada, y se asignará el puntaje mínimo al estudiante.
 
-
-
 ### **Exposición**
 
 El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicadas abajo:
 
-**Recursos**
+### **Recursos**
 
 - Git y Github | Curso Práctico de Git y Github Desde Cero:  [https://www.youtube.com/watch](https://www.youtube.com/watch)[v=HiXLkL42tMU](https://www.youtube.com/watch?v=HiXLkL42tMU)
 - Editor colaborativo LaTeX en línea:[**https://www.overleaf.com/**](https://www.overleaf.com/).
