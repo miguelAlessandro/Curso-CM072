@@ -161,58 +161,11 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
   - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/)
 
 
-# Temario 
-
-Introducción al machine learning y aplicaciones
-
-Aprendizaje supervisado
-
-- Clasificación y regresión
-- Generalización, sobrefijado, subfijado
-- Algoritmos  del ML supervisados
-- Estimacion de incertidumbre de los estimadores
-
-Aprendizaje no supervisado
-
-- Tipos de aprendizaje no supervisado
-- Retos en el aprendizaje no supervisado
-- Preprocesamiento, escalamiento y normalización
-- Reducción de la dimensión, extracción de características.
-- Clustering
-
-Representación de datos e ingeniería de las características
-
-- Variables categóricas
-- Discretización, modelos lineales y árboles
-- Interacciones y polinomios
-- Transformacions univariadas no lineales.
-
-Evaluación de modelos
-
-- Validación cruzada. Variantes
-- Búsqueda grid y random
-- Métricas de evaluación y puntuaciones
-
-Cadena de algoritmos y pipelines
-
-- Selección de paramétros y preprocesamiento
-- Construyendo  y utilizando pipelines
-- Interfaz general de pipelines
-
-Introducción a las redes neuronales
-
- - Perceptrón para regresión y clasificació
- - Keras
- - Redes Convolucionales
- - Regularizacion
- - Aplicación con MNIST 
-
 ## Lecturas
 
 - [API design for machine learning software:experiences from the scikit-learn project](https://github.com/C-Lara/Curso-CM072/blob/master/Introducci%C3%B3n/API-ScikitLearn.pdf).
+- Andrew ng y sus consejos en ML en el artículo : [ML-advice](http://cs229.stanford.edu/materials/ML-advice.pdf).
 
-## Tareas
-- [Tarea 1](https://github.com/C-Lara/Curso-CM072/tree/master/Tarea1).
 
 ## Lecturas adicionales
 
