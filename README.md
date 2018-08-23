@@ -1,5 +1,26 @@
 # Curso CM-072
 
+## Introducción 
+
+### El mundo del machine learning y la IA
+
+* Ejemplo 1: [Introduction](https://www.youtube.com/watch?v=i8D90DkCLhI).
+* Ejemplo 2: [Rules on Rules on Rules](https://www.youtube.com/watch?v=2ZhQkD1QKFw).
+* Ejemplo 3: [Now I R1](https://www.youtube.com/watch?v=0cRXaORbIFA).
+* Ejemplo 4: [Machine Learning](https://www.youtube.com/watch?v=sarVw-iVWgc).
+* Ejemplo 5: [To Learn is to Generalize](https://www.youtube.com/watch?v=efR8ybG7Ihs).
+* Ejemplo 6: [It's Definitely Time to Play with Legos](https://www.youtube.com/watch?v=GufQYkMkdpw).
+* Ejemplo 7: [There is no f](https://www.youtube.com/watch?v=klWUOO4sHaA).
+* Ejemplo 8: [More Assumptions...Fewer Problems?](https://www.youtube.com/watch?v=UVwwYZMFocg).
+* Ejemplo 9: [Bias Variance Throwdown](https://www.youtube.com/watch?v=ZYjCIazhKbk).
+* Ejemplo 10: [World Domination](https://www.youtube.com/watch?v=6cvPj9dmYTo).
+* Ejemplo 11: [Haystacks on Haystacks](https://www.youtube.com/watch?v=biy2yU3Auc4).
+* Ejemplo 12: [Let's Get Greedy](https://www.youtube.com/watch?v=Kg8W_q8pHik).
+* Ejemplo 13: [Heuristics](https://www.youtube.com/watch?v=g_sA8hYU3b8).
+* Ejemplo 14: [Mejorando las Heurísticas](https://www.youtube.com/watch?v=tPHImr2sFBM).
+* Ejemplo 15: [Information](https://www.youtube.com/watch?v=FMCY3SXTELE).
+
+
 # Temario 
 
 Introducción al machine learning y aplicaciones
