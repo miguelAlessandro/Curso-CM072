@@ -185,6 +185,12 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno-->[Modelos lineales para clasificación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/04_ModelosLineales_Clasificacion.ipynb).
  - [Repaso: The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378).
  - [Tarea]().
+ 
+ ## Clase 3
+ - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/05_ArbolesDecision.ipynb).
+ - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
+ - Cuaderno-->[Ensamblado de árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/06_Ensamble_ArbolesDecision.ipynb).
+ - [Tarea]().
 
 ## Herramientas a  usar 
 
