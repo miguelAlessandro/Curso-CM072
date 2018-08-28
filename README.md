@@ -167,20 +167,24 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
   - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/)
 
 
-## Lecturas
-
+## Clase 1
+- [Introducción al machine learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/01_IntroduccionML.ipynb).
+- [Introducción al aprendizaje supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Aprendizaje_supervisado/02_AprendizajeSupervisado.ipynb).
 - [API design for machine learning software:experiences from the scikit-learn project](https://github.com/C-Lara/Curso-CM072/blob/master/Introducci%C3%B3n/API-ScikitLearn.pdf).
 - Andrew ng y sus consejos en ML en el artículo : [ML-advice](http://cs229.stanford.edu/materials/ML-advice.pdf).
+- Artículo de O'really acerca de que es la ciencia de datos y las proyecciones a futuro  [What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
+- [KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
+- [Tarea]()--> Presentación 3 de setiembre. 
 
-
-## Lecturas adicionales
-
-###  Clases 1-2
-
-*  Artículo de Jake VanderPlas sobre la velocidad de Python [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/).
-* Artículo de O'really acerca de que es la ciencia de datos y las proyecciones a futuro  [What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
-* [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/), presenta un análisis acerca de las deficiencia del método científico actual.
-* [Analyzing the Analyzers ](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) proporciona una mirada útil a los diferentes tipos de científicos de datos.
+## Clase 2
+ - [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/), presenta un análisis acerca de las deficiencia del método científico actual.
+ - [How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
+ - [Introducción a lo modelos lineales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/03_ModelosLineales.ipynb).
+ - [Four Assumptions Of Multiple Regression That Researchers Should Always
+Test](https://pareonline.net/getvn.asp?v=8&n=2).
+ - [Modelos lineales para clasificación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/04_ModelosLineales_Clasificacion.ipynb).
+ - [Repaso: The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378).
+ - [Tarea]().
 
 ## Herramientas a  usar 
 
