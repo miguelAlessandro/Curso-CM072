@@ -191,6 +191,23 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
  - Cuaderno-->[Ensamblado de árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/06_Ensamble_ArbolesDecision.ipynb).
  - [Tarea]().
+ 
+ ## Clase 4
+ - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
+
+## Clase 5
+  - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
+  
+## Clase 6
+ - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/09_Estimacion_Incertidumbre_clasificadores.ipynb).
+ - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
+ 
+ ## Clase 7
+ - Cuaderno-->[PCA](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/11_PCA.ipynb).
+ - Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
+ 
+ ## Clase 8
+  - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
 
 ## Herramientas a  usar 
 
