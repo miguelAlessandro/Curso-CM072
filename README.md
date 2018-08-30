@@ -78,7 +78,7 @@ Nota Final = (0.7* Examen Parcial + 0.3 * Trabajo1  + 0.5 * Examen Final + 0.5 *
 
 - 
 
-## **Evaluación** (Adaptado del trabajo Dr. Ceśar Beltrán Castañón y  Mg. César Olivares Poggi)
+###  **Evaluación** (Adaptado del trabajo Dr. Ceśar Beltrán Castañón y  Mg. César Olivares Poggi)
 
 La evaluación serán 5 entregables, lo cuales se detallan a continuación, que serán parte de las calificaciones de laboratorios y y exámenes y no son anulables.
 
@@ -204,10 +204,13 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  
  ## Clase 7
  - Cuaderno-->[PCA](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/11_PCA.ipynb).
+ - Video-->[Acerca de PCA](https://www.youtube.com/watch?v=kw9R0nD69OU).
  - Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
+
  
  ## Clase 8
   - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
+  - Lectura-->[Tipos de clustering en scikit-learn](http://scikit-learn.org/stable/modules/clustering.html).
 
 ## Herramientas a  usar 
 
