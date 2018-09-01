@@ -79,16 +79,16 @@ El trabajo del curso será la aplicación de modelos de Machine Learning en una 
 ### Conjunto de datos:
 
 - [Netflix Prize data](https://www.kaggle.com/netflix-inc/netflix-prize-data). Dataset from Netflix's competition to improve their reccommendation algorithm.
-- [Cars Overhead With Context (COWC)](https://gdo152.llnl.gov/cowc/).
+- [Cars Overhead With Context (COWC)](https://gdo152.llnl.gov/cowc/). Data set of a large set of annotated cars from overhead.
     * [Car Localization and Counting with Overhead Imagery, an Interactive](https://medium.com/the-downlinq/car-localization-and-counting-with-overhead-imagery-an-interactive-exploration-9d5a029a596b). 
     * [Vehicle Detection in Aerial Images](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5431/9230_read-42467/).
     * [Training a deep-learning classifier for aerial top view detection of vehicles](https://medium.com/@ckyrkou/training-a-deep-learning-classifier-for-aerial-top-view-detection-of-vehicles-874f88d81c4).
-    * [Monza: Image Classification of Vehicle Make and Model Using Convolutional  Neural Networks and Transfer Learning (http://cs231n.stanford.edu/reports/2015/pdfs/lediurfinal.pdf).
+    * [Monza: Image Classification of Vehicle Make and Model Using Convolutional  Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/2015/pdfs/lediurfinal.pdf).
 - [Lending Club Loan data](https://www.kaggle.com/wendykan/lending-club-loan-data). Analyze Lending Club's issued loans.
 - [The Enron Email Dataset](https://www.kaggle.com/wcukierski/enron-email-dataset). 500,000+ emails from 150 employees of the Enron Corporation.
 - [Dota 2 Matches](https://www.kaggle.com/devinanzelmo/dota-2-matches). Explore player behavior and predict match outcomes.
 - [UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles).Detailed dataset of road accidents and involved vehicles in the UK (2005-2016).
-- [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
+- [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/). Database of face photographs designed for studying the problem of unconstrained face recognition.
     * [Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet).
     * [CNNs for Face Detection and Recognition](http://cs231n.stanford.edu/reports/2017/pdfs/222.pdf).
     * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf).
@@ -96,7 +96,7 @@ El trabajo del curso será la aplicación de modelos de Machine Learning en una 
 - [Mobile phone activity in a city](https://www.kaggle.com/marcodena/mobile-phone-activity). Hourly phone calls, SMS and Internet communication of an entire city.
 - [New York Times Comments](https://www.kaggle.com/aashita/nyt-comments).Comments on articles published in the New York Times.
 - [Car Localization and Counting with Overhead Imagery, an Interactive](https://medium.com/the-downlinq/car-localization-and-counting-with-overhead-imagery-an-interactive-exploration-9d5a029a596b). 
-- [https://www.kaggle.com/lnicalo/gtzan-musicspeech-collection](GTZAN music/speech collection).Dataset collected for the purposes of music/speech discrimination.
+- [GTZAN music/speech collection](https://www.kaggle.com/lnicalo/gtzan-musicspeech-collection).Dataset collected for the purposes of music/speech discrimination.
     * [Deep Music Genre](http://cs231n.stanford.edu/reports/2017/pdfs/22.pdf).
     * [Convolutional Recurrent Neural network for music classification](https://arxiv.org/pdf/1609.04243.pdf).
     * [Music Genre Classification using Machine Learning Techniques](https://arxiv.org/pdf/1804.01149.pdf).
