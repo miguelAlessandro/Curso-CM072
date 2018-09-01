@@ -193,8 +193,10 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
  - Cuaderno-->[Introducción a lo modelos lineales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/03_ModelosLineales.ipynb).
  - Lectura-->[Four Assumptions Of Multiple Regression That Researchers Should Always
 Test](https://pareonline.net/getvn.asp?v=8&n=2).
+- Lectura-->[Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html).
  - Cuaderno-->[Modelos lineales para clasificación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/04_ModelosLineales_Clasificacion.ipynb).
-
+ - Lectura-->[The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa).
+ - Lectura-->[Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html).
   - Lectura opcional-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
  - Lectura opcional-->[How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
  - [Tarea]().
@@ -204,18 +206,22 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/05_ArbolesDecision.ipynb).
  - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
  - Cuaderno-->[Ensamblado de árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/06_Ensamble_ArbolesDecision.ipynb).
+ - Lectura-->[Gradient Boosting Explained](https://gormanalysis.com/gradient-boosting-explained/).
  - Lectura opcional-->[Understanding Random Forest from theory to practice](https://arxiv.org/pdf/1407.7502v3.pdf).
  - [Tarea]().
  
  ### Clase 4 : 26 de setiembre
- - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
- - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
+ - Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
  - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
+ - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
+ - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
+ - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
  - [Tarea]().
 
 ### Clase 5 : 29 de setiembre
   - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
-  - Lectura-->
+  - Lectura-->[Deep learning](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf).
+  - Lectura opcional-->[An overview of gradient descent optimizationalgorithms](https://arxiv.org/pdf/1609.04747.pdf).
   - [Tarea]()
   
 ### Clase 6 : 6 de octubre
@@ -234,6 +240,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
 
  ### Clase 8 : 13 de octubre
   - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
+  - Lectura opcional-->[Data Clustering: A Review](http://eprints.library.iisc.ernet.in/273/1/p264-jain.pdf).
   - [Tarea]()
   
  ### Clase 9 : 20 de octubre
@@ -244,8 +251,12 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   - [Tarea]()
  
  ### Clase 10 : 27 de octubre
+ - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
  - Cuaderno-->[Ingeniería de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Ingenieria_caracteristicas/16_Ingenieria_caracteristicas.ipynb).
- - [Tarea]()
+ - Lecturas:
+    * [Understanding Feature Engineering-Continuous Numeric](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b).
+    * [Understanding Feature Engineering-Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63).
+ - [Tarea]().
  
  ### Clase 11 : 3 de noviembre
  - Cuaderno -->[Selección automática de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/17_Seleccion_caracteristicas.ipynb).
