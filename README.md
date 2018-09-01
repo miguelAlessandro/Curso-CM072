@@ -73,12 +73,20 @@ Nota Final = (0.7* Examen Parcial + 0.3 * Trabajo1  + 0.5 * Examen Final + 0.5 *
   - Archivo PDF (Informe).
   - Cuaderno de Jupyter con el código y un resumen del proyecto.
   - Presentación en Beamer  para su exposición.
+  
+El trabajo del curso será la aplicación de modelos de Machine Learning en una tarea de clasificación y en el posible de alguna técnica de regresión o alguna otra relacionada al aprendizaje no supervisado. Se requerirá el uso de al menos 4 métodos de clasificación de su elección y la evaluación del rendimiento en una tarea común, así como establecer una comparación con una línea base reportada previamente en otros artículos.
 
-### **Lista de temas:**
+### ** Conjunto de datos:**
 
-- 
+- [Netflix Prize data](https://www.kaggle.com/netflix-inc/netflix-prize-dat). Dataset from Netflix's competition to improve their reccommendation algorithm.
+- [Lending Club Loan data](https://www.kaggle.com/wendykan/lending-club-loan-data). Analyze Lending Club's issued loans.
+- [The Enron Email Dataset](https://www.kaggle.com/wcukierski/enron-email-dataset). 500,000+ emails from 150 employees of the Enron Corporation.
+- [Dota 2 Matches](https://www.kaggle.com/devinanzelmo/dota-2-matches). Explore player behavior and predict match outcomes.
+- [UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles).Detailed dataset of road accidents and involved vehicles in the UK (2005-2016).
+- [Mobile phone activity in a city](https://www.kaggle.com/marcodena/mobile-phone-activity). Hourly phone calls, SMS and Internet communication of an entire city.
+- [New York Times Comments](https://www.kaggle.com/aashita/nyt-comments).Comments on articles published in the New York Times.
 
-###  **Evaluación** (Adaptado del trabajo Dr. Ceśar Beltrán Castañón y  Mg. César Olivares Poggi)
+###  **Evaluación** (Adaptado del trabajo del Dr. Ceśar Beltrán Castañón y  Mg. César Olivares Poggi)
 
 La evaluación serán 5 entregables, lo cuales se detallan a continuación, que serán parte de las calificaciones de laboratorios y y exámenes y no son anulables.
 
