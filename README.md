@@ -76,7 +76,7 @@ Nota Final = (0.7* Examen Parcial + 0.3 * Trabajo1  + 0.5 * Examen Final + 0.5 *
   
 El trabajo del curso será la aplicación de modelos de Machine Learning en una tarea de clasificación y en el posible de alguna técnica de regresión o alguna otra relacionada al aprendizaje no supervisado. Se requerirá el uso de al menos 4 métodos de clasificación de su elección y la evaluación del rendimiento en una tarea común, así como establecer una comparación con una línea base reportada previamente en otros artículos.
 
-### ** Conjunto de datos:**
+### Conjunto de datos:
 
 - [Netflix Prize data](https://www.kaggle.com/netflix-inc/netflix-prize-dat). Dataset from Netflix's competition to improve their reccommendation algorithm.
 - [Lending Club Loan data](https://www.kaggle.com/wendykan/lending-club-loan-data). Analyze Lending Club's issued loans.
