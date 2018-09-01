@@ -78,7 +78,7 @@ El trabajo del curso será la aplicación de modelos de Machine Learning en una 
 
 ### Conjunto de datos:
 
-- [Netflix Prize data](https://www.kaggle.com/netflix-inc/netflix-prize-dat). Dataset from Netflix's competition to improve their reccommendation algorithm.
+- [Netflix Prize data](https://www.kaggle.com/netflix-inc/netflix-prize-data). Dataset from Netflix's competition to improve their reccommendation algorithm.
 - [Lending Club Loan data](https://www.kaggle.com/wendykan/lending-club-loan-data). Analyze Lending Club's issued loans.
 - [The Enron Email Dataset](https://www.kaggle.com/wcukierski/enron-email-dataset). 500,000+ emails from 150 employees of the Enron Corporation.
 - [Dota 2 Matches](https://www.kaggle.com/devinanzelmo/dota-2-matches). Explore player behavior and predict match outcomes.
