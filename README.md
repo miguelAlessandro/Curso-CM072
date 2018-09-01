@@ -182,7 +182,7 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 - Andrew ng y sus consejos en ML en el artículo : [ML-advice](http://cs229.stanford.edu/materials/ML-advice.pdf).
 - Lectura-->[What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
 - Lectura-->[KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
-- [Tarea]()--> Presentación 3 de setiembre. 
+- [Tarea]()
 
 ## Clase 2
  - Lectura-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
@@ -202,46 +202,58 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  
  ## Clase 4
  - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
+ - [Tarea]()--> 
 
 ## Clase 5
   - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
+  - Lectura-->
+  - [Tarea]()--> 
   
 ## Clase 6
  - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/09_Estimacion_Incertidumbre_clasificadores.ipynb).
+ - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
  - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
+ - [Tarea]()-->  
  
  ## Clase 7
  - Cuaderno-->[PCA](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/11_PCA.ipynb).
  - Video-->[Acerca de PCA](https://www.youtube.com/watch?v=kw9R0nD69OU).
  - Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
+ - [Tarea]()--> 
 
- 
+
  ## Clase 8
   - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
-  
+  - [Tarea]()--> 
   
  ## Clase 9
   - Cuaderno-->[Clustering agomerativo](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/14_Clustering_aglomerativo.ipynb).
   - Lectura-->[Tipos de clustering en scikit-learn](http://scikit-learn.org/stable/modules/clustering.html).
   - Cuaderno-->[Comparación y evaluación de clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/15_Comparacion_evaluacion_clustering.ipynb).
+  - [Tarea]()--> 
  
  ## Clase 10
- - Cuaderno-->[Ingeniería de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Ingenieria_caracteristicas/16_Ingenieria_caracteristicas.ipynb)
+ - Cuaderno-->[Ingeniería de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Ingenieria_caracteristicas/16_Ingenieria_caracteristicas.ipynb).
+ - [Tarea]()--> 
  
  ## Clase 11
  - Cuaderno -->[Selección automática de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/17_Seleccion_caracteristicas.ipynb).
  - Cuaderno -->[Evaluación de modelos](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Evaluacion_modelos/18_Evaluacion_modelos.ipynb).
+ - [Tarea]()--> Presentación 3 de setiembre. 
  
  ## Clase 12
  - Cuaderno-->[Validación cruzada](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/19_Validacion_cruzada.ipynb).
+ - [Tarea]()--> 
  
  ## Clase 13
  - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
  - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
+ - [Tarea]()--> 
  
  ## Clase 14
  - Cuaderno-->[Pipeline](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/22_Pipeline.ipynb).
  - Cuaderno-->[Interfaz general de los pipelines](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Interfaz_pipeline/23_Interfaz_pipeline.ipynb).
+ - [Tarea]()--> 
  
  
  
