@@ -92,11 +92,11 @@ La evaluación serán 5 entregables, lo cuales se detallan a continuación, que 
 
 | **Entregable** | **Fecha límite de entrega** | **Puntaje** |
 | --- | --- | --- |
-| 1.  Propuesta de proyecto | |  |
-| 2. (Introducción, estado del arte y diseño del experimento), en formato IEEE, tamaño A4, máximo 3 páginas de extensión. |  |  |
-| 3. Código y/o scripts (jupyter notebooks) con la experimentación realizada |  ||
-| 4. Informe final, en formato IEEE, tamaño A4, máximo 10 páginas de extensión |||
-| 5. Exposición de presentación de trabajo | ||
+| 1.  Propuesta de proyecto |5 de setiembre |  |
+| 2. (Introducción, estado del arte y diseño del experimento), en formato IEEE, tamaño A4, máximo 3 páginas de extensión. | 15 de setiembre |  |
+| 3. Código y/o scripts (jupyter notebooks) con la experimentación realizada | 20 de octubre ||
+| 4. Informe final, en formato IEEE, tamaño A4, máximo 10 páginas de extensión |10 de noviembre||
+| 5. Exposición de presentación de trabajo | 17 de noviembre||
 
 Se tomará más énfasis en  lo siguiente  para las evaluaciones:
 
