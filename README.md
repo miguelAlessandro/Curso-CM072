@@ -95,7 +95,6 @@ El trabajo del curso será la aplicación de modelos de Machine Learning en una 
     * [Building a real time Face Recognition system using pre-trained FaceNet model](https://medium.com/@vinayakvarrier/building-a-real-time-face-recognition-system-using-pre-trained-facenet-model-f1a277a06947).
 - [Mobile phone activity in a city](https://www.kaggle.com/marcodena/mobile-phone-activity). Hourly phone calls, SMS and Internet communication of an entire city.
 - [New York Times Comments](https://www.kaggle.com/aashita/nyt-comments).Comments on articles published in the New York Times.
-- [Car Localization and Counting with Overhead Imagery, an Interactive](https://medium.com/the-downlinq/car-localization-and-counting-with-overhead-imagery-an-interactive-exploration-9d5a029a596b). 
 - [GTZAN music/speech collection](https://www.kaggle.com/lnicalo/gtzan-musicspeech-collection).Dataset collected for the purposes of music/speech discrimination.
     * [Deep Music Genre](http://cs231n.stanford.edu/reports/2017/pdfs/22.pdf).
     * [Convolutional Recurrent Neural network for music classification](https://arxiv.org/pdf/1609.04243.pdf).
