@@ -200,6 +200,7 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 - Lectura-->[A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/).
 - Lectura opcional-->[What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
 - Lectura opcional-->[KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
+- Diapositiva-->[Presentación 1](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/PresentacionML1.pdf)
 - [Tarea]()
 
 ### Clase 2 : 15 de setiembre 
