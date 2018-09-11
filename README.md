@@ -78,13 +78,27 @@ El trabajo del curso será la aplicación de modelos de Machine Learning en una 
 
 ### Conjunto de datos:
 
-- [Netflix Prize data](https://www.kaggle.com/netflix-inc/netflix-prize-dat). Dataset from Netflix's competition to improve their reccommendation algorithm.
+- [Netflix Prize data](https://www.kaggle.com/netflix-inc/netflix-prize-data). Dataset from Netflix's competition to improve their reccommendation algorithm.
+- [Cars Overhead With Context (COWC)](https://gdo152.llnl.gov/cowc/). Data set of a large set of annotated cars from overhead.
+    * [Car Localization and Counting with Overhead Imagery, an Interactive](https://medium.com/the-downlinq/car-localization-and-counting-with-overhead-imagery-an-interactive-exploration-9d5a029a596b). 
+    * [Vehicle Detection in Aerial Images](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5431/9230_read-42467/).
+    * [Training a deep-learning classifier for aerial top view detection of vehicles](https://medium.com/@ckyrkou/training-a-deep-learning-classifier-for-aerial-top-view-detection-of-vehicles-874f88d81c4).
+    * [Monza: Image Classification of Vehicle Make and Model Using Convolutional  Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/2015/pdfs/lediurfinal.pdf).
 - [Lending Club Loan data](https://www.kaggle.com/wendykan/lending-club-loan-data). Analyze Lending Club's issued loans.
 - [The Enron Email Dataset](https://www.kaggle.com/wcukierski/enron-email-dataset). 500,000+ emails from 150 employees of the Enron Corporation.
 - [Dota 2 Matches](https://www.kaggle.com/devinanzelmo/dota-2-matches). Explore player behavior and predict match outcomes.
 - [UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles).Detailed dataset of road accidents and involved vehicles in the UK (2005-2016).
+- [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/). Database of face photographs designed for studying the problem of unconstrained face recognition.
+    * [Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet).
+    * [CNNs for Face Detection and Recognition](http://cs231n.stanford.edu/reports/2017/pdfs/222.pdf).
+    * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf).
+    * [Building a real time Face Recognition system using pre-trained FaceNet model](https://medium.com/@vinayakvarrier/building-a-real-time-face-recognition-system-using-pre-trained-facenet-model-f1a277a06947).
 - [Mobile phone activity in a city](https://www.kaggle.com/marcodena/mobile-phone-activity). Hourly phone calls, SMS and Internet communication of an entire city.
 - [New York Times Comments](https://www.kaggle.com/aashita/nyt-comments).Comments on articles published in the New York Times.
+- [GTZAN music/speech collection](https://www.kaggle.com/lnicalo/gtzan-musicspeech-collection).Dataset collected for the purposes of music/speech discrimination.
+    * [Deep Music Genre](http://cs231n.stanford.edu/reports/2017/pdfs/22.pdf).
+    * [Convolutional Recurrent Neural network for music classification](https://arxiv.org/pdf/1609.04243.pdf).
+    * [Music Genre Classification using Machine Learning Techniques](https://arxiv.org/pdf/1804.01149.pdf).
 
 ###  **Evaluación** (Adaptado del trabajo del Dr. Ceśar Beltrán Castañón y  Mg. César Olivares Poggi)
 
@@ -176,22 +190,30 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 
 
 ### Clase 1: 8 de setiembre
-- Cuaderno-->[Introducción al machine learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/01_IntroduccionML.ipynb).
-- Cuaderno-->[Introducción al aprendizaje supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Aprendizaje_supervisado/02_AprendizajeSupervisado.ipynb).
-- Lectura-->[API design for machine learning software:experiences from the scikit-learn project](https://arxiv.org/pdf/1309.0238.pdf).
 - Andrew ng y sus consejos en ML en el artículo : [ML-advice](http://cs229.stanford.edu/materials/ML-advice.pdf).
-- Lectura-->[What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
-- Lectura-->[KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
-- [Tarea]()
+- Cuaderno-->[Introducción al machine learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/01_IntroduccionML.ipynb).
+- Datos-->[Iris Data Set](http://archive.ics.uci.edu/ml/datasets/Iris).
+- Lectura-->[API design for machine learning software:experiences from the scikit-learn project](https://arxiv.org/pdf/1309.0238.pdf).
+- Cuaderno-->[Introducción al aprendizaje supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Aprendizaje_supervisado/02_AprendizajeSupervisado.ipynb).
+- Lectura-->[Overfitting vs. Underfitting: A Conceptual Explanation](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9).
+- Lectura -->[Clever Methods of Overfitting](http://hunch.net/?p=22).
+- Lectura-->[A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/).
+- Lectura opcional-->[What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
+- Lectura opcional-->[KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
+- Diapositiva-->[Presentación 1](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/PresentacionML1.pdf).
+- [Tarea1](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea1.ipynb)-->Presentación 12 de setiembre.
 
 ### Clase 2 : 15 de setiembre 
- - Lectura-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
- - Lectura-->[How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
+
  - Cuaderno-->[Introducción a lo modelos lineales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/03_ModelosLineales.ipynb).
  - Lectura-->[Four Assumptions Of Multiple Regression That Researchers Should Always
 Test](https://pareonline.net/getvn.asp?v=8&n=2).
+- Lectura-->[Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html).
  - Cuaderno-->[Modelos lineales para clasificación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/04_ModelosLineales_Clasificacion.ipynb).
- - [Repaso: The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378).
+ - Lectura-->[The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa).
+ - Lectura-->[Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html).
+  - Lectura opcional-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
+ - Lectura opcional-->[How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
  - [Tarea]().
  
  ### Clase 3 : 22 de setiembre
@@ -199,18 +221,22 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/05_ArbolesDecision.ipynb).
  - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
  - Cuaderno-->[Ensamblado de árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/06_Ensamble_ArbolesDecision.ipynb).
+ - Lectura-->[Gradient Boosting Explained](https://gormanalysis.com/gradient-boosting-explained/).
  - Lectura opcional-->[Understanding Random Forest from theory to practice](https://arxiv.org/pdf/1407.7502v3.pdf).
  - [Tarea]().
  
  ### Clase 4 : 26 de setiembre
- - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
- - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
+ - Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
  - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
+ - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
+ - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
+ - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
  - [Tarea]().
 
 ### Clase 5 : 29 de setiembre
   - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
-  - Lectura-->
+  - Lectura-->[Deep learning](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf).
+  - Lectura opcional-->[An overview of gradient descent optimizationalgorithms](https://arxiv.org/pdf/1609.04747.pdf).
   - [Tarea]()
   
 ### Clase 6 : 6 de octubre
@@ -229,6 +255,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
 
  ### Clase 8 : 13 de octubre
   - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
+  - Lectura opcional-->[Data Clustering: A Review](http://eprints.library.iisc.ernet.in/273/1/p264-jain.pdf).
   - [Tarea]()
   
  ### Clase 9 : 20 de octubre
@@ -239,8 +266,12 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   - [Tarea]()
  
  ### Clase 10 : 27 de octubre
+ - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
  - Cuaderno-->[Ingeniería de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Ingenieria_caracteristicas/16_Ingenieria_caracteristicas.ipynb).
- - [Tarea]()
+ - Lecturas:
+    * [Understanding Feature Engineering-Continuous Numeric](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b).
+    * [Understanding Feature Engineering-Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63).
+ - [Tarea]().
  
  ### Clase 11 : 3 de noviembre
  - Cuaderno -->[Selección automática de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/17_Seleccion_caracteristicas.ipynb).
