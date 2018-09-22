@@ -217,55 +217,6 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - [Tarea]().
  
  ### Clase 3 : 22 de setiembre
- - Lectura -->[A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
- - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/05_ArbolesDecision.ipynb).
- - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
- - Cuaderno-->[Ensamblado de árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/06_Ensamble_ArbolesDecision.ipynb).
- - Lectura-->[Gradient Boosting Explained](https://gormanalysis.com/gradient-boosting-explained/).
- - Lectura opcional-->[Understanding Random Forest from theory to practice](https://arxiv.org/pdf/1407.7502v3.pdf).
- - [Tarea]().
- 
- ### Clase 4 : 26 de setiembre
- - Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
- - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
- - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
- - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
- - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
- - [Tarea]().
-
-### Clase 5 : 29 de setiembre
-  - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
-  - Lectura-->[Deep learning](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf).
-  - Lectura opcional-->[An overview of gradient descent optimizationalgorithms](https://arxiv.org/pdf/1609.04747.pdf).
-  - [Tarea]()
-  
-### Clase 6 : 6 de octubre
- - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/09_Estimacion_Incertidumbre_clasificadores.ipynb).
- - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
- - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
- - [Tarea]() 
- 
- ### Clase 7 : 10 de octubre
- - Cuaderno-->[PCA](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/11_PCA.ipynb).
- - Video-->[Acerca de PCA](https://www.youtube.com/watch?v=kw9R0nD69OU).
- - Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
- - Lectura-->[A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf).
- - [Tarea]()
-
-
- ### Clase 8 : 13 de octubre
-  - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
-  - Lectura opcional-->[Data Clustering: A Review](http://eprints.library.iisc.ernet.in/273/1/p264-jain.pdf).
-  - [Tarea]()
-  
- ### Clase 9 : 20 de octubre
-  - Cuaderno-->[Clustering aglomerativo](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/14_Clustering_aglomerativo.ipynb).
-  - Interacción-->[Hierarchical Clustering in Action](https://joyofdata.shinyapps.io/hclust-shiny/).
-  - Lectura-->[Tipos de clustering en scikit-learn](http://scikit-learn.org/stable/modules/clustering.html).
-  - Cuaderno-->[Comparación y evaluación de clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/15_Comparacion_evaluacion_clustering.ipynb).
-  - [Tarea]()
- 
- ### Clase 10 : 27 de octubre
  - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
  - Cuaderno-->[Ingeniería de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Ingenieria_caracteristicas/16_Ingenieria_caracteristicas.ipynb).
  - Lecturas:
@@ -273,31 +224,27 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
     * [Understanding Feature Engineering-Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63).
  - [Tarea]().
  
- ### Clase 11 : 3 de noviembre
- - Cuaderno -->[Selección automática de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/17_Seleccion_caracteristicas.ipynb).
- - Lectura-->[Model evaluation: quantifying the quality of predictions](http://scikit-learn.org/stable/modules/model_evaluation.html).
- - Cuaderno -->[Evaluación de modelos](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Evaluacion_modelos/18_Evaluacion_modelos.ipynb).
- - [Tarea]()
- 
- ### Clase 12 : 10 de noviembre 
- - Cuaderno-->[Validación cruzada](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/19_Validacion_cruzada.ipynb).
- - Lectura-->[Cross-validation pitfalls when selecting and assessing regression and classification models](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-6-10).
- - [Tarea]()
- 
- ### Clase 13: 17 de noviembre
+ ### Clase 4 : 26 de setiembre
  - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
  - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
  - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
  - [Tarea]()
  
- ### Clase 14 : 24 de noviembre
- - Cuaderno-->[Pipeline](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/22_Pipeline.ipynb).
- - Cuaderno-->[Interfaz general de los pipelines](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Interfaz_pipeline/23_Interfaz_pipeline.ipynb).
+### Clase 5 : 29 de setiembre
+  - Cuaderno -->[Selección automática de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/17_Seleccion_caracteristicas.ipynb).
+ - Lectura-->[Model evaluation: quantifying the quality of predictions](http://scikit-learn.org/stable/modules/model_evaluation.html).
+ - Cuaderno -->[Evaluación de modelos](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Evaluacion_modelos/18_Evaluacion_modelos.ipynb).
+ - [Tarea]()
+### Clase 6 : 6 de octubre
+ - Cuaderno-->[Validación cruzada](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/19_Validacion_cruzada.ipynb).
+ - Lectura-->[Cross-validation pitfalls when selecting and assessing regression and classification models](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-6-10).
  - [Tarea]()
  
- ### Clase 15: 1 de diciembre
+
+ ### Clase 7 : 10 de octubre
  
- - Lectura -->[XGBoost: A Scalable Tree Boosting System](http://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
+
+
 
 ## Herramientas a  usar 
 
