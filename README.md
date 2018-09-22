@@ -123,7 +123,7 @@ Se tomará más énfasis en  lo siguiente  para las evaluaciones:
 La propuesta de proyecto deberá incluir lo siguiente (máximo una hoja A4):
 
 - Nombre del proyecto
-- Proyecto a utilizar (dependiendo del orden de trabajos se hará las asignaciones repetidas).
+- Proyecto a utilizar (dependiendo del orden de trabajos se hará las asignaciones repetidas)
 - Objetivo del proyecto
 - Artículos científicos relevantes
 -  Propuesta tentativa de modelos a utilizar.
@@ -139,19 +139,19 @@ El informe debe incluir la siguiente información:
   - Objetivo del estudio
   - Organización del informe (secciones).
 -  Estado del arte
-  - Breve mención del aporte que otros artículos científicos han realizado para este problema.
-  -  Mención de al menos 3 artículos científicos que mencionen el problema y las variantes realizadas.
+  - Breve mención del aporte que otros artículos científicos han realizado para este problema
+  -  Mención de al menos 3 artículos científicos que mencionen el problema y las variantes realizadas
 
 - Diseño del experimento
   - Descripción de los objetos, funciones y técnicas a utilizar.
 
 - Experimentos y resultados
-  - Línea base: Reproducción de resultados reportados en un artículo científico anterior.
-  - Evaluación del rendimiento de los modelos ensayados.
-  - Comparación de línea base y resultados propios.
+  - Línea base: Reproducción de resultados reportados en un artículo científico anterior
+  - Evaluación del rendimiento de los modelos ensayados
+  - Comparación de línea base y resultados propios
 
 - Discusión
-  - Interpretación de los resultados obtenidos.
+  - Interpretación de los resultados obtenidos
   -  ¿Cómo podría ser mejorado sus resultados?
 
 - Conclusiones y trabajos futuros.
@@ -173,20 +173,20 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 
 ### **Recursos**
 
-- Git y Github | Curso Práctico de Git y Github Desde Cero--> [https://www.youtube.com/watch](https://www.youtube.com/watch)[v=HiXLkL42tMU](https://www.youtube.com/watch?v=HiXLkL42tMU)
+- Git y Github | Curso Práctico de Git y Github Desde Cero--> [https://www.youtube.com/watch](https://www.youtube.com/watch)[v=HiXLkL42tMU](https://www.youtube.com/watch?v=HiXLkL42tMU).
 - Editor colaborativo LaTeX en línea-->[https://www.overleaf.com/](https://www.overleaf.com/).
 
-- **Formato IEEE (MS Word y LaTeX)** -->[**https://www.ieee.org/conferences/publishing/templates.html**](https://www.ieee.org/conferences/publishing/templates.html)
+- **Formato IEEE (MS Word y LaTeX)** -->[**https://www.ieee.org/conferences/publishing/templates.html**](https://www.ieee.org/conferences/publishing/templates.html).
 
-- Buscador de literatura académica-->[**https://scholar.google.com.pe/**](https://scholar.google.com.pe/)
+- Buscador de literatura académica-->[**https://scholar.google.com.pe/**](https://scholar.google.com.pe/).
 
-- Jupyter Notebook Tutorial: The Definitive Guide-->[**https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook**](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+- Jupyter Notebook Tutorial: The Definitive Guide-->[**https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook**](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook).
 
 - Guías para elaborar un poster:
 
   - [https://guides.nyu.edu/posters](https://guides.nyu.edu/posters)
-  - [https://nau.edu/undergraduate-research/poster-presentation-tips/](https://nau.edu/undergraduate-research/poster-presentation-tips/)
-  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/)
+  - [https://nau.edu/undergraduate-research/poster-presentation-tips/](https://nau.edu/undergraduate-research/poster-presentation-tips/).
+  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/).
 
 
 ### Clase 1: 8 de setiembre
@@ -227,19 +227,22 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - [Tarea]().
  
  ### Clase 4 : 26 de setiembre
-  - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
- - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
- - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
- - [Tarea]()
  
- ### Clase 5 : 29 de setiembre
-
-- Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
+ - Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
  - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
  - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
  - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
  - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
  - [Tarea]().
+ 
+ ### Clase 5 : 29 de setiembre
+  - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
+ - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
+ - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
+ - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/09_Estimacion_Incertidumbre_clasificadores.ipynb).
+ - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
+ - [Tarea]()
+
 ### Clase 6 : 6 de octubre
  - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
  - Cuaderno-->[Ingeniería de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Ingenieria_caracteristicas/16_Ingenieria_caracteristicas.ipynb).
@@ -254,8 +257,46 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Cuaderno -->[Evaluación de modelos](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Evaluacion_modelos/18_Evaluacion_modelos.ipynb).
   - Cuaderno-->[Validación cruzada](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/19_Validacion_cruzada.ipynb).
  - Lectura-->[Cross-validation pitfalls when selecting and assessing regression and classification models](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-6-10).
- - [Tarea](),
+ - [Tarea]().
+ 
+ ### Clase 8 : 20 de octubre 
+ - Lectura -->[XGBoost: A Scalable Tree Boosting System](http://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
 
+  
+ ### Clase 9 : 3 de noviembre
+ - Cuaderno-->[Aprendizaje no supervisado](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/10_Aprendizaje_noSupervisado.ipynb).
+ - Cuaderno-->[PCA](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/11_PCA.ipynb).
+ - Video-->[Acerca de PCA](https://www.youtube.com/watch?v=kw9R0nD69OU).
+ - Cuaderno opcional-->- Cuaderno-->[NFE y Manifold learning](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/12_NMF.ipynb).
+ - Lectura-->[A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf).
+ - [Tarea]().
+ 
+ ### Clase 11 : 10 de noviembre
+  - Cuaderno-->[Clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/13_Clustering.ipynb).
+  - Lectura opcional-->[Data Clustering: A Review](http://eprints.library.iisc.ernet.in/273/1/p264-jain.pdf).
+  - Cuaderno-->[Clustering aglomerativo](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/14_Clustering_aglomerativo.ipynb).
+  - Interacción-->[Hierarchical Clustering in Action](https://joyofdata.shinyapps.io/hclust-shiny/).
+  - Lectura-->[Tipos de clustering en scikit-learn](http://scikit-learn.org/stable/modules/clustering.html).
+  - Cuaderno-->[Comparación y evaluación de clustering](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/15_Comparacion_evaluacion_clustering.ipynb).
+  - [Tarea]().
+ 
+ ### Clase 12 : 17 de noviembre 
+ 
+ - Cuaderno-->[Pipeline](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/22_Pipeline.ipynb).
+ - Cuaderno-->[Interfaz general de los pipelines](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Interfaz_pipeline/23_Interfaz_pipeline.ipynb).
+ - [Tarea]()
+ 
+
+ ### Clase 13: 24 de noviembre
+ - Cuaderno-->[Redes neuronales](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/08_RedesNeuronales.ipynb).
+  - Lectura-->[Deep learning](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf).
+  - Lectura opcional-->[An overview of gradient descent optimizationalgorithms](https://arxiv.org/pdf/1609.04747.pdf).
+  - [Tarea]().
+  
+  ### Clase 15: 1 de diciembre
+  - Introducción a Keras.
+  - Tarea().
+ 
 
 ## Herramientas a  usar 
 
