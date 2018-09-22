@@ -201,7 +201,7 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 - Lectura opcional-->[What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
 - Lectura opcional-->[KDD, SEMMA AND CRISP-DM: A parallel overview](http://recipp.ipp.pt/bitstream/10400.22/136/3/KDD-CRISP-SEMMA.pdf).
 - Diapositiva-->[Presentación 1](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/PresentacionML1.pdf).
-- [Tarea1](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea1.ipynb)-->Presentación 12 de setiembre.
+- [Tarea 1](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea1.ipynb)-->Presentación 12 de setiembre.
 
 ### Clase 2 : 15 de setiembre 
 
@@ -214,11 +214,19 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura-->[Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html).
   - Lectura opcional-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
  - Lectura opcional-->[How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
- - [Tarea]().
+ - [Tarea 2](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea2/Tarea2.ipynb)-->Presentación 22 de setiembre..
  
  ### Clase 3 : 22 de setiembre
+ -  Lectura-->[Random Test/Train Split is not Always Enough](http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/).
+  - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
+ - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
+ - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
+ - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/09_Estimacion_Incertidumbre_clasificadores.ipynb).
+ - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
+ - [Tarea]()
  
- - Lectura -->[A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
+ ### Clase 4 : 29 de setiembre
+  - Lectura -->[A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
  - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/05_ArbolesDecision.ipynb).
  - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
  - Cuaderno-->[Ensamblado de árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/06_Ensamble_ArbolesDecision.ipynb).
@@ -226,8 +234,8 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura opcional-->[Understanding Random Forest from theory to practice](https://arxiv.org/pdf/1407.7502v3.pdf).
  - [Tarea]().
  
- ### Clase 4 : 26 de setiembre
  
+ ### Clase 5 : 3 de octubre
  - Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
  - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
  - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
@@ -235,13 +243,6 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
  - [Tarea]().
  
- ### Clase 5 : 29 de setiembre
-  - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
- - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
- - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
- - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/09_Estimacion_Incertidumbre_clasificadores.ipynb).
- - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
- - [Tarea]()
 
 ### Clase 6 : 6 de octubre
  - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
