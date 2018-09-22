@@ -235,7 +235,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   - Lectura -->[A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
 
  ### Clase 5 : 3 de octubre
-  - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/05_ArbolesDecision.ipynb).
+  - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Arbol_decision/05_ArbolesDecision.ipynb).
  - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
  - [Tarea]().
 
