@@ -217,33 +217,44 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - [Tarea]().
  
  ### Clase 3 : 22 de setiembre
+ 
+ - Lectura -->[A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
+ - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/05_ArbolesDecision.ipynb).
+ - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
+ - Cuaderno-->[Ensamblado de árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/06_Ensamble_ArbolesDecision.ipynb).
+ - Lectura-->[Gradient Boosting Explained](https://gormanalysis.com/gradient-boosting-explained/).
+ - Lectura opcional-->[Understanding Random Forest from theory to practice](https://arxiv.org/pdf/1407.7502v3.pdf).
+ - [Tarea]().
+ 
+ ### Clase 4 : 26 de setiembre
+  - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
+ - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
+ - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
+ - [Tarea]()
+ 
+ ### Clase 5 : 29 de setiembre
+
+- Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
+ - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
+ - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
+ - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
+ - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
+ - [Tarea]().
+### Clase 6 : 6 de octubre
  - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
  - Cuaderno-->[Ingeniería de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Ingenieria_caracteristicas/16_Ingenieria_caracteristicas.ipynb).
  - Lecturas:
     * [Understanding Feature Engineering-Continuous Numeric](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b).
     * [Understanding Feature Engineering-Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63).
  - [Tarea]().
- 
- ### Clase 4 : 26 de setiembre
- - Cuaderno-->[Métricas de evaluación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/20_Metricas.ipynb).
- - Cuaderno-->[Curvas de exhaustividad- precisión, curvas ROC, AUC](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/21_Curvas_precision_ROC.ipynb).
- - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
- - [Tarea]()
- 
-### Clase 5 : 29 de setiembre
+
+ ### Clase 7 : 13 de octubre
   - Cuaderno -->[Selección automática de características](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/17_Seleccion_caracteristicas.ipynb).
  - Lectura-->[Model evaluation: quantifying the quality of predictions](http://scikit-learn.org/stable/modules/model_evaluation.html).
  - Cuaderno -->[Evaluación de modelos](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Evaluacion_modelos/18_Evaluacion_modelos.ipynb).
- - [Tarea]()
-### Clase 6 : 6 de octubre
- - Cuaderno-->[Validación cruzada](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/19_Validacion_cruzada.ipynb).
+  - Cuaderno-->[Validación cruzada](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/19_Validacion_cruzada.ipynb).
  - Lectura-->[Cross-validation pitfalls when selecting and assessing regression and classification models](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-6-10).
- - [Tarea]()
- 
-
- ### Clase 7 : 10 de octubre
- 
-
+ - [Tarea](),
 
 
 ## Herramientas a  usar 
