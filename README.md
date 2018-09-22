@@ -223,7 +223,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura -->[An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf).
  - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/09_Estimacion_Incertidumbre_clasificadores.ipynb).
  - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
- - [Tarea]()
+ - [Tarea 3](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea3/Tarea3.ipynb)-->Presentación 29 de setiembre.
  
  ### Clase 4 : 29 de setiembre
   - Lectura inicial-->[Feature Engineering: The key to predictive modeling](https://medium.com/@karanrajwanshi/feature-engineering-the-key-to-predictive-modeling-8f1935b3db4f).
