@@ -210,8 +210,8 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
 Test](https://pareonline.net/getvn.asp?v=8&n=2).
 - Lectura-->[Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html).
  - Cuaderno-->[Modelos lineales para clasificación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/04_ModelosLineales_Clasificacion.ipynb).
+ - Lectura-->[The Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c).
  - Lectura-->[The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa).
- - Lectura-->[Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html).
   - Lectura opcional-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
  - Lectura opcional-->[How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
  - [Tarea 2](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea2/Tarea2.ipynb)-->Presentación 22 de setiembre..
