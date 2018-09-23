@@ -243,7 +243,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
 ### Clase 6 : 6 de octubre
 - Repaso-->[Gradient, Subgradient and how they may affect your grade](http://cs.nyu.edu/~dsontag/courses/ml16/slides/notes_convexity16.pdf).
  - Lectura-->[Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf).
- - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/07_SVM.ipynb).
+ - Cuaderno-->[SVM](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/SVM/07_SVM.ipynb).
  - Lectura -->[The Kernel Trick](https://dscm.quora.com/The-Kernel-Trick).
  - Resumen-->[SVM Revisit](http://www.fuzihao.org/blog/2017/11/18/SVM-Revisit/).
  - [Tarea]().
@@ -296,7 +296,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
   
   ### Clase 15: 1 de diciembre
   - Introducción a Keras.
-  - Tarea().
+  - [Tarea]().
  
 
 ## Herramientas a  usar 
