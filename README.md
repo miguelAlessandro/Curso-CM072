@@ -209,7 +209,7 @@ El trabajo final, tendrá exposiciones. Se recomienda seguir las guías indicada
  - Lectura-->[Four Assumptions Of Multiple Regression That Researchers Should Always
 Test](https://pareonline.net/getvn.asp?v=8&n=2).
 - Lectura-->[Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html).
- - Cuaderno-->[Modelos lineales para clasificación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/04_ModelosLineales_Clasificacion.ipynb).
+ - Cuaderno-->[Modelos lineales para clasificación](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Modelos_lineales_clasificacion/04_ModelosLineales_Clasificacion.ipynb).
  - Lectura-->[The Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c).
  - Lectura-->[The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa).
   - Lectura opcional-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
@@ -232,9 +232,10 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
     * [Understanding Feature Engineering-Continuous Numeric](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b).
     * [Understanding Feature Engineering-Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63).
  - [Tarea]().
-  - Lectura -->[A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
+  
 
  ### Clase 5 : 3 de octubre
+  - Lectura -->[A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
   - Cuaderno-->[Árboles de decisión](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Arbol_decision/05_ArbolesDecision.ipynb).
  - Lectura -->[Decision  tree learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf).
  - [Tarea]().
