@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 cm2 = ListedColormap(['#0000aa', '#ff2020'])
 
