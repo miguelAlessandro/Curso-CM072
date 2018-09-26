@@ -231,7 +231,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lecturas:
     * [Understanding Feature Engineering-Continuous Numeric](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b).
     * [Understanding Feature Engineering-Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63).
- - [Tarea]().
+ - [Tarea 4](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea4/Tarea4.ipynb)-->Presentación 3 de octubre.
   
 
  ### Clase 5 : 3 de octubre
