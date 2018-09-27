@@ -213,6 +213,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura-->[The Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c).
  - Lectura-->[The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa).
   - Lectura opcional-->[The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
+  - Diapositiva-->[Presentación 2](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion2ML.pdf).
  - Lectura opcional-->[How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced).
  - [Tarea 2](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea2/Tarea2.ipynb)-->Presentación 22 de setiembre..
  
@@ -223,6 +224,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura -->[The Relationship Between Precision-Recall and ROC Curves](http://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf).
  - Lectura -->["I don’t think that means what you think it means;” Statistics to English Translation, Part 1: Accuracy Measures](http://www.win-vector.com/blog/2009/11/i-dont-think-that-means-what-you-think-it-means-statistics-to-english-translation-part-1-accuracy-measures/).
  - Cuaderno-->[Estimación de clasificadores](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Cuadernos-CM072/Estimacion_incertidumbre_clasificadores/09_Estimacion_Incertidumbre_clasificadores.ipynb).
+ - Diapositiva-->[Presentacion 3](https://github.com/C-Lara/Curso-CM072/blob/master/Presentaciones/Presentacion3ML.pdf).
  - Lectura-->[Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) 
  - [Tarea 3](https://github.com/C-Lara/Curso-CM072/blob/master/Tareas/Tarea3/Tarea3.ipynb)-->Presentación 29 de setiembre.
  
