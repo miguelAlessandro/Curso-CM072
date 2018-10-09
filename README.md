@@ -260,7 +260,7 @@ Test](https://pareonline.net/getvn.asp?v=8&n=2).
  - Lectura-->[Gradient Boosting Explained](https://gormanalysis.com/gradient-boosting-explained/).
  - Lectura opcional-->[Understanding Random Forest from theory to practice](https://arxiv.org/pdf/1407.7502v3.pdf).
  - Lectura -->[XGBoost: A Scalable Tree Boosting System](http://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
- - [Tarea 7 (Examen](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea7/Tarea7.ipynb) -->Presentación 17 de octubre.
+ - [Tarea 7 (Examen)](https://nbviewer.jupyter.org/github/C-Lara/Curso-CM072/blob/master/Tareas/Tarea7/Tarea7.ipynb) -->Presentación 17 de octubre.
 
  
  ### Clase 8 : 20 de octubre 
